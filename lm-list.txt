@@ -1,0 +1,4 @@
+hub4.5000.DMP	hub4.5000.dic
+tidigits.DMP	tidigits.dic
+turtle.DMP	turtle.dic
+number.DMP	number.dic
