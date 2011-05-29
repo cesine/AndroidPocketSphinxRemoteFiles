@@ -1,0 +1,5 @@
+Mirror of http://tts.speech.cs.cmu.edu/apappu/android/edu.cmu.pocketsphinx/ in case it's no longer availible
+
+Needed only if you fork the AndroidPocketSphinx repository and want to change the server that the demo contacts. 
+
+Contains files for Language Models and Acoustic  Models to get the AndroidPocketSphinx demo working. 
